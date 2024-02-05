@@ -9,7 +9,7 @@ const Container = styled.div`
 export function LinktreeBOS() {
   return (
     <Container>
-      <VmComponent src="baam25.near/widget/store" props={{ store: process.env.NEXT_PUBLIC_CONTRACT_ID }} />
+      <VmComponent src="ndcplug.near/widget/Linktree.Main" props={{ accountId: process.env.NEXT_PUBLIC_ACCOUNT_ID }} />
     </Container>
   );
 }
