@@ -55,6 +55,14 @@ cp .env.example .env
 pnpm dev
 ```
 
+```env
+// .env
+NEXT_PUBLIC_NETWORK_ID=mainnet
+NEXT_PUBLIC_HOSTNAME=https://near.org
+NEXT_PUBLIC_ACCOUNT_ID=baam25.near
+NEXT_PUBLIC_THEME=default
+```
+
 The entry component is `LinktreeBOS` and it's located at
 `/src/components/polygon/index.tsx`
 
