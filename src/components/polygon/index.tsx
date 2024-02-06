@@ -14,7 +14,7 @@ export function LinktreeBOS() {
     <Container>
       <VmComponent
         src="baam25.near/widget/linktree"
-        props={{ accountId: process.env.NEXT_PUBLIC_ACCOUNT_ID, ...query }}
+        props={{ accountId: process.env.NEXT_PUBLIC_ACCOUNT_ID, theme: process.env.NEXT_PUBLIC_ACCOUNT_ID, ...query }}
       />
     </Container>
   );
