@@ -6,7 +6,7 @@ Easily deploy a linktree of your profile on the SocialDB (bos) - updates when yo
 
 Video Tutorial
 
-https://www.youtube.com/watch?v=a8ULNp1q2uQ&t=1s
+https://www.youtube.com/watch?v=Hsy18qqf4OY
 
 To setup a custom domain on vercel
 
