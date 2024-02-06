@@ -2,7 +2,7 @@
 
 Easily deploy a linktree of your profile on the SocialDB (bos) - updates when you add information from any gateway
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fcodingshot%2Flinktree-bos&build-command=pnpm%20run%20build&env=NEXT_PUBLIC_NETWORK_ID,NEXT_PUBLIC_HOSTNAME,NEXT_PUBLIC_ACCOUNT_ID,NEXT_PUBLIC_THEME&envDescription=mainnet-near.org-themecanbeanything&envLink=https%3A%2F%2Fgithub.com%2Fcodingshot%2Flinktree-bos%2Fblob%2Fmain%2F.env.example)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FM-Rb3%2Flinktree-bos&build-command=pnpm%20run%20build&env=NEXT_PUBLIC_NETWORK_ID,NEXT_PUBLIC_HOSTNAME,NEXT_PUBLIC_ACCOUNT_ID,NEXT_PUBLIC_THEME&envDescription=mainnet-near.org-themecanbeanything&envLink=https%3A%2F%2Fgithub.com%2FM-Rb3%2Flinktree-bos%2Fblob%2Fmain%2F.env.example)
 
 Video Tutorial
 
