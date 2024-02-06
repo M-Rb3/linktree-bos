@@ -12,7 +12,7 @@ To setup a custom domain on vercel
 
 https://vercel.com/docs/concepts/projects/domains/add-a-domain
 
-# Available Themes
+## Available Themes
 
 - default
 - dark
@@ -23,6 +23,22 @@ https://vercel.com/docs/concepts/projects/domains/add-a-domain
 - neon
 - vintage
 - eclectic
+
+![alt text](preview.gif)
+
+## Props
+
+| Props               |  Type   |          Default           |                     description                     |
+| ------------------- | :-----: | :------------------------: | :-------------------------------------------------: |
+| theme               | string  |          default           |                    webpage theme                    |
+| showNFTs            | boolean |            true            |                 toggle NFTs slider                  |
+| showTags            | boolean |            true            |                 toggle tags section                 |
+| customExternalLinks |  array  | customExternalLinksDefault |        select profile external links to show        |
+| isLink              | boolean |            true            | toggle NFT card routing to Mintbase NFT detail page |
+
+```javascript
+const customExternalLinksDefault = ['website', 'github', 'twitter', 'telegram'];
+```
 
 ## Setup & Development
 
